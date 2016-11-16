@@ -1,0 +1,14 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "blackie (http://blackie1019.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "websocket": "^1.0.23"
+  }
+}
